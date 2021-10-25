@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6e2677dd-8b05-406a-9fb2-dc110e8fbb5e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "面性长菱形钻石水晶": {
+      "ver": "1.0.4",
+      "uuid": "ea388b84-784c-4045-b262-a1952b85f4ec",
+      "rawTextureUuid": "6e2677dd-8b05-406a-9fb2-dc110e8fbb5e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 43,
+      "trimY": 12,
+      "width": 114,
+      "height": 176,
+      "rawWidth": 200,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

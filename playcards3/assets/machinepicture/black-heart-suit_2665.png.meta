@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "381199ee-5368-4bbe-8acf-4cdc92612a06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "black-heart-suit_2665": {
+      "ver": "1.0.4",
+      "uuid": "ac907917-0422-41f1-ad43-b235b9ce136c",
+      "rawTextureUuid": "381199ee-5368-4bbe-8acf-4cdc92612a06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 1,
+      "width": 56,
+      "height": 70,
+      "rawWidth": 72,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
